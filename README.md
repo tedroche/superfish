@@ -4,7 +4,7 @@ Our favourite aquatic superhero returns from his sojourn across the galaxy infus
 
 ## Documentation and Demos
 
-Please use the [existing Superfish documentation](https://superfish.joelbirch.co/) where you will find full explanations of the customisable features and plenty of examples to get you started.
+Please use the [existing Superfish documentation](https://superfish.joelbirch.design/) where you will find full explanations of the customisable features and plenty of examples to get you started.
 
 ## Download [Superfish zip archive](https://github.com/joeldbirch/superfish/archive/master.zip)
 
